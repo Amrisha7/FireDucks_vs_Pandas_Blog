@@ -45,13 +45,6 @@ This repo includes:
 
 Each operation is timed to demonstrate performance, giving a clear understanding of FireDucks' efficiency in real scenarios.
 
-## 📁 Files in This Repository
-
-- `fireducks_vs_pandas.ipynb` – Jupyter notebook with code and benchmarks  
-- `data_sample.csv` – Sample data file used for testing  
-- `benchmark_results.txt` – Logs of execution time for each operation  
-- `README.md` – This file
-
 ## ❓ FAQs
 
 **Q: Can FireDucks fully replace Pandas?**  
